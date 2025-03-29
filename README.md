@@ -2,7 +2,7 @@
 
 We explore how to construct unbiased Chest X-Ray datasets using StyleGAN! 
 <br>
-Checkout our pytorch version [[Code](https://github.com/Wazhee/GCA-torch)]
+**Checkout our pytorch version [[Code](https://github.com/Wazhee/GCA-torch)]**
 
 ```Chest X-Ray Interpolation using StyleGAN3``` 
 <br>
