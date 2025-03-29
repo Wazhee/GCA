@@ -1,6 +1,7 @@
 # Generative Counterfactual Augmentation (GCA)
 
 We explore how to construct unbiased Chest X-Ray datasets using StyleGAN! 
+Checkout our pytorch version [[Code](https://github.com/Wazhee/GCA-torch)]
 
 ```Chest X-Ray Interpolation using StyleGAN3``` 
 <br>
