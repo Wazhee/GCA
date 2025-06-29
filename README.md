@@ -19,6 +19,7 @@ Our method effectively mitigates the effects of adversarial label poisoning atta
 
 ## Performance Evaluation - Area under the receiver operating characteristic curve (AUROC)
 ![auroc_baseline](https://github.com/user-attachments/assets/eaaaed54-7d0d-42dd-8278-6dc0e6eb9531)
+![Full-Synth-RSNA-AUROC](https://github.com/user-attachments/assets/610d3946-cbfc-46ee-af31-6af8ba0b6d65)
 
 
 # GCA Architecture
