@@ -22,7 +22,8 @@ Our method effectively mitigates the effects of adversarial label poisoning atta
 
 
 # GCA Architecture
-<img width="846" alt="architecture_digram" src="https://github.com/user-attachments/assets/087c7a6b-a351-48bd-9afd-9247f7108893" /><br>
+![architecture diagram](https://github.com/user-attachments/assets/4a7b5ee0-db8e-4a57-8741-5c6111e30649)
+
 
 ## Installation
 ```python
