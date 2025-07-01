@@ -2,7 +2,7 @@
 
 We explore how to construct unbiased Chest X-Ray datasets using StyleGAN! 
 <br>
-**Checkout our pytorch version [[Code](https://github.com/Wazhee/GCA-torch)]**
+**Checkout our pytorch version [[Code](https://github.com/<anonymous>/GCA-torch)]**
 
 ```Chest X-Ray Interpolation using StyleGAN3``` 
 <br>
@@ -28,7 +28,7 @@ Our method effectively mitigates the effects of adversarial label poisoning atta
 
 ## Installation
 ```python
-git clone "https://github.com/Wazhee/Debiasing-Chest-X-Rays-with-StyleGAN.git"
+git clone "https://github.com/<anonymous>/Debiasing-Chest-X-Rays-with-StyleGAN.git"
 cd Debiasing-Chest-X-Rays-with-StyleGAN
 ```
 
